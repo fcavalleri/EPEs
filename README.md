@@ -15,6 +15,7 @@ The study underlying this work is currently under peer review. The derived event
   for SEAS in DJF, MAM, JJA, SON and VAR in N, AvIn, PkIn, SpS
 - EPEs_subsetting.py
   Takes MERIDA_HRES_clusters_pctl_YEAR.txt files as inputs,
+  Uses the file Annual_extremes_MERIDA_HRES_1h_max_clim_1986-2022_2smooth20km.nc as threshold,
   provides the file MERIDA-HRES_pctl_extremes_1986-2022.txt with the EPEs
 - EPEs_Moving_window_averages.py
   Takes MERIDA-HRES_pctl_extremes_1986-2022.txt  file as input,
