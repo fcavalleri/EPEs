@@ -1,6 +1,6 @@
 ### EPEs
 This repository contains the code used for an event-based analysis of hourly precipitation across Italy, with a focus on the potential intensification of extreme events. 
-The study underlying this work is currently under peer review. The derived event dataset is openly available on Zenodo: https://bit.ly/HOPE-X.
+The study underlying this work is currently under peer review. The derived event dataset is openly available on Zenodo: https://bit.ly/HOPSS-X.
 
 # Event-detection algorithm (in R):
 - Event_detection.R
